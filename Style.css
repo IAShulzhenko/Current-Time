@@ -5,7 +5,7 @@ body{
 div.separator{
 	color: #039be5;
 	font-weight: bold;
-	font-size: 45px;
+	font-size: 50px;
 	vertical-align: middle;
 	display: inline-block;
 }
@@ -16,7 +16,7 @@ div.digits{
 	background-color: #039be5;
 	color: white;
 	font-weight: bold;
-	font-size: 45px;
+	font-size: 50px;
 	//text-align: center;
 	vertical-align: middle;
 	display: inline-block;
